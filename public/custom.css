@@ -1,0 +1,34 @@
+.site_title .img-circle.profile_img {
+    width: 40px;
+    height: 40px;
+    margin-left: 4px;
+    margin-top: 4px;
+}
+
+.site_title .img-circle.profile_img {
+    width: 40px;
+    height: 40px;
+    margin-left: 4px;
+    margin-top: 4px;
+}
+.site_title span {
+    font-size: 20px;
+    margin-left: 10px;
+}
+.sidebar-footer a{
+    opacity: 0;
+}
+.middle_panel {
+    width: 400px;
+    height: auto;
+    position: absolute;
+    left: 50%;
+    top: 50vh;
+    transform: translate(-50%, -50%);
+}
+
+a i{
+    cursor: pointer;
+    font-size: 18px;
+    margin: 0px 5px;
+}
